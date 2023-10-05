@@ -1,0 +1,11 @@
+{
+  "name": "react-ts-vercel-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:unlocked-agency/react-ts-vercel-boilerplate.git",
+  "author": "Michael Foltz <foltz@lxis.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.4.1"
+  }
+}
