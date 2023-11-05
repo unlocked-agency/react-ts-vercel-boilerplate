@@ -6,6 +6,6 @@
   "author": "Michael Foltz <foltz@lxis.net>",
   "license": "MIT",
   "devDependencies": {
-    "vercel": "^32.4.1"
+    "vercel": "^32.5.0"
   }
 }
