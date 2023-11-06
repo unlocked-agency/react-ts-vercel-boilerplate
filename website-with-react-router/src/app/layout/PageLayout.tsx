@@ -1,7 +1,7 @@
-import {Outlet} from 'react-router';
+import { Outlet } from 'react-router';
 
-import {HeaderSection} from './sections/HeaderSection';
-import {FooterSection} from './sections/FooterSection';
+import { HeaderSection } from './sections/HeaderSection';
+import { FooterSection } from './sections/FooterSection';
 
 import './page-layout.scss';
 
